@@ -1,0 +1,14 @@
+crystal property,,,,,
+shape factor,crystal density,,,,
+-,kg/m3,,,,
+1,2450,,,,
+,,,,,
+nucleation kinetic,,,,,
+Kr,j,i,,,
+-,-,-,,,
+9.00E+16,1,2,,,
+,,,,,
+Operating condition,,,,,
+residence time,slurry concentration,R,Lf,z,Lp
+min,kg/m3,-,um,-,um
+15,200,1,10,1,100
